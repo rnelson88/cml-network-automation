@@ -221,12 +221,6 @@ print(f"Connecting to {name} at {host}")
 How real teams do this, and where I'm taking this lab:
 
 - [ ] **Backup script**: save `show run` to a timestamped file
-- [ ] **Add R2 + R3** and loop over a YAML inventory file
-- [ ] **Static IPs** so DHCP doesn't change my targets
-- [ ] **Jinja2 templates** to build OSPF config for every router
-- [ ] **Pre/post checks**: verify OSPF neighbors before and after changes
-- [ ] **Redo it all in Ansible**
-- [ ] **pyATS/Genie** for automated testing
 
 ---
 
