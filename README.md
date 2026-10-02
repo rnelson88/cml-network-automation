@@ -4,7 +4,7 @@ The CCNA taught me how networks work. Now I want to learn how networks get run a
 
 First up: connecting my Windows PC to a Cisco router running in **Cisco Modeling Labs (CML)** and pushing config to it with **Python + Netmiko**.
 
-Nothing fancy — just the real steps I took, including the stuff that broke. 😅
+I'll share the real steps I took, including what broke. 😅
 
 ---
 
