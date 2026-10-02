@@ -4,7 +4,7 @@ The CCNA taught me how networks work. Now I want to learn how networks get run a
 
 First up: connecting my Windows PC to a Cisco router running in **Cisco Modeling Labs (CML)** and pushing config to it with **Python + Netmiko**.
 
-I'll share the real steps I took, including what broke. 😅
+I'll share the real steps I took, including what broke.
 
 ---
 
@@ -190,7 +190,7 @@ show ip interface brief
 
 `Loopback0  1.1.1.1` is there. Python configured my router. 🤖
 
-### 😬 What went wrong for me
+### What went wrong for me
 
 ```python
 print(f"Connecting to {R1} at {192.168.111.132}")
@@ -234,4 +234,4 @@ How real teams do this, and where I'm taking this lab:
 
 ---
 
-*Built in a home lab with CML-Free. Feel free to steal any of this.* ✌️
+*Built in a home lab with CML-Free. Feel free to steal any of this.* 
